@@ -36,3 +36,11 @@ else
 }
 
 
+// Более простое решение с поиском номера символа и выводом его.
+// Console.Write("Введите число: ");
+// string number = Console.ReadLine();
+// int i = 2;
+// char answer = number[i];
+// Console.Write($"{number} -> {answer}");
+
+
