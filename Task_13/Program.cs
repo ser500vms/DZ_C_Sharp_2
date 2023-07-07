@@ -36,11 +36,20 @@ else
 }
 
 
-// Более простое решение с поиском номера символа и выводом его.
+//Более простое решение с поиском номера символа и выводом его.
 // Console.Write("Введите число: ");
 // string number = Console.ReadLine();
+// int lenght = number.Length;
 // int i = 2;
-// char answer = number[i];
-// Console.Write($"{number} -> {answer}");
+// if (lenght < 3)
+// {
+//     Console.WriteLine($"{number} -> третьей цифры нет");
+// }
+// else
+// {
+//     char answer = number[i];
+//     Console.Write($"{number} -> {answer}");
+//}
+
 
 
