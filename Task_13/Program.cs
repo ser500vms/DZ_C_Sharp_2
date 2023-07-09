@@ -25,7 +25,7 @@ long Find(long num) // Функция по нахождению 3-го числ�
 Console.Write("Введите число: ");
 long number = Convert.ToInt64(Console.ReadLine());
 
-if (number < 100)
+if (number > -100 && number < 100)
 {
     Console.WriteLine($"{number} -> третьей цифры нет");
 }
